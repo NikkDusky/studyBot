@@ -1,0 +1,2 @@
+# studyBot
+Pomodoro study bot
